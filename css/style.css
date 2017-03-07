@@ -94,6 +94,7 @@ img.img-responsive {
 
 .nav.navbar-nav {
     background-color: rgba(255,255,255,.6);
+    font-family: "等线 Light";
 }
 
 #menu .nav.navbar-bar {
@@ -434,6 +435,7 @@ footer {
 
 footer p {
 	color: #f8f8f8;
+    font-family: "Courier New";
 }
 
 footer a {
